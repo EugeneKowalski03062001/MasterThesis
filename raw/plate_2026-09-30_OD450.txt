@@ -1,0 +1,21 @@
+Plate Reader Export
+Software	ReaderControl v4.2
+Protocol	IL1b_ELISA_450-570
+Measurement	Absorbance 450 nm (reference 570 nm), corrected
+Plate	IL1b_rescue_20260930
+Date	2026-09-30
+Time	18:21:07
+User	eugene
+Temperature	23.6 C
+
+<>	1	2	3	4	5	6	7	8	9	10	11	12
+A	1.852	1.910	1.297	1.353	1.294	1.343	1.309	1.226	1.280	1.312	1.223	
+B	1.342	1.336	0.190	0.205	0.184	0.179	0.186	0.182	0.168	0.176	0.170	
+C	0.827	0.855	1.292	1.265	1.290	1.245	1.213	1.316	1.228	1.220	1.254	
+D	0.494	0.472	1.248	1.256	1.244	0.515	0.524	0.544	0.914	0.925	0.985	
+E	0.263	0.261										
+F	0.156	0.151										
+G	0.102	0.100										
+H	0.051	0.050										
+
+End of export
